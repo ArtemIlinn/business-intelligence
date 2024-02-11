@@ -6,6 +6,10 @@
 
 ![alt text](CovidTableau/covidtableaupng.png)
 
+- 🛍 ```Customer Analytics``` - Tableau dashboard for Customer Analytics
+
+![alt text](CustomerAnalytics/customerstableaupng.png)
+
 - 🎬 ```Netflix In Tableau``` - Select the movie/series and get the info, presents statistics about shows of the platform.
 
 ![alt text](Netflix-tableau/tableaunetflixpng.png)
