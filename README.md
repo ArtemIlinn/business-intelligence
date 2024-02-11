@@ -1,6 +1,6 @@
 # business-intelligence
 
-### The collection of Business Intelegence projects, dashboards, reports. Working tith Tableau, MS Power BI ...
+### The collection of Business Intelegence projects, dashboards, reports. Working with Tableau, MS Power BI ...
 
 - 🧬 ```Covid-19 Global Vaccine Tracker``` - Tableau dashboard for partially/fully/non vaccinated, by country, by GDP
 
