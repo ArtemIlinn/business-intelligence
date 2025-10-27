@@ -1,0 +1,17 @@
+# LinkedIn Interest Extractor Requirements
+
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+openai>=1.12.0
+anthropic>=0.18.0
+
+# Optional: For more robust HTML parsing
+lxml>=5.1.0
+
+# Optional: For proxy-based scraping (if needed)
+# requests[socks]>=2.31.0
+
+# Optional: For browser automation (alternative to requests)
+# selenium>=4.16.0
+# webdriver-manager>=4.0.1
